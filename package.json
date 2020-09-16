@@ -28,7 +28,7 @@
   "author": "AndreaPontrandolfo",
   "module": "dist/js-utils.esm.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://registry.npmjs.org"
   },
   "devDependencies": {
     "husky": "^4.3.0",
