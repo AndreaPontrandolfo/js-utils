@@ -24,7 +24,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "js-utils",
+  "name": "@andrea-pontrandolfo/js-utils",
   "author": "AndreaPontrandolfo",
   "module": "dist/js-utils.esm.js",
   "publishConfig": {
