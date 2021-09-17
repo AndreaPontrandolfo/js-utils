@@ -1,4 +1,4 @@
-export const getDeviceType = (width: number) => {
+export const getDeviceTypeByWidth = (width: number) => {
   switch (true) {
     case width < 768:
       return { isMobile: true, isTablet: false, isDesktop: false };
